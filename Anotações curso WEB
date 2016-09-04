@@ -1,0 +1,17 @@
+1. Se abrir uma tag html e não fechar, o browser vai jogar o efeito até o final da página;
+
+2. O doctype pode mudar dependendo da versão do html. Estamos usando a HMTL 5;
+
+3. Na seção "head" são informações de configurações da página, mas que não aparecem para o usuário;
+
+4. A tag "title", dentro do "head" é que dá o título da página;
+
+5. Nem toda tag precisa ser fechada com </tag>. A tag meta, por exemplo, é finalizada dentro dela própria: <meta .../>
+
+6. A codificação <meta charset="utf-8"> permite o uso de letras especiais da língua portuguesa (ç, á, í, etc.);
+
+7. Os cabeçalhos são chamados de "headers" e são identificados pela letra "h". Cada h é um tipo/tamanho de cabeçalho; Os tipos vão de h1 a h6;
+
+8. Para formatar a exibição da página é necessário usar as tags. A tag <br> por exemplo, ela quebra a linha, e sem necessidade de tag de fechamento </br>. Ela pode ser escrita <br />, ou mesmo só <br>;
+
+

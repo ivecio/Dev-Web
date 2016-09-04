@@ -14,4 +14,16 @@
 
 8. Para formatar a exibição da página é necessário usar as tags. A tag <br> por exemplo, ela quebra a linha, e sem necessidade de tag de fechamento </br>. Ela pode ser escrita <br />, ou mesmo só <br>;
 
+9. A tag <p> serve para parágrafo, e dá um espaçamento entre linha maior que o <br>. Só que essa tag deve ser fechada com </p>, na linha em que acaba;
 
+10. A tag <hr> coloca um tracejo para dividir seções. Ela significa "horizontal rule", do inglês;
+
+11. A tag <b> vem do inglÊs Bold, que é negrito. Mas a utilização recomendada nas novas versões do HTML é a tag <strong>;
+
+12. Da mesma forma o Itálico, que era a tag <i>, agora se usa a tag <em>;
+
+13. A tag <u> é para textos sublinhados, e a tag <strike> é para textos sobrescritos, com traço no meio da palavra;
+
+14. A tag <ul> vem de Unorder List, ou Lista não ordenada, em inglês; Essa tag traz a "bolinha" na frente dos itens, como uma lista; a tag para cada item da lista é <li>, de list item;
+
+15.

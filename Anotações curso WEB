@@ -40,4 +40,9 @@
 
 21. A imagem pode ser "baixada" direto da fonte, utilizando o endereço web, como por ex. <img src="http://www.vbtuning.com.br/images/carro.png">;
 
-22.
+22. A tag <a> é colocada entre palavras para inserir um link; Traz atributos, que o link, ex: <a href="http://www.google.com.br">. Deve ser fechada com </a>, e se for para um link externo, deve ter o http://; Se a tag for para um link interno, basta o atalho interno;
+
+23. Se colocar a tag <img > no meio ds tags <a >, você transforma a imagem em um link;
+
+
+

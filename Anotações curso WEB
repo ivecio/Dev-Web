@@ -44,5 +44,14 @@
 
 23. Se colocar a tag <img > no meio ds tags <a >, você transforma a imagem em um link;
 
+24. Para criar tabelas, a tag é <table>. Ela deve ser fechada </table>, e ela recebe atributos, p. ex. <table border="1">;
+
+25. Linhas da tablea: a tag <tr> é a linha da tabela (table row), e a tag <td> é uma célula da tabela (table data / table cell); A tag <td> insere nova coluna à tabela, e a tag <tr> novas linhas;
+
+26. Usando a tag <th> em vez da <td> ela faz como se fosse um cabeçalho, com letra em negrito  palavras centralizadas;
+
+27. A tag <table> também aceita a referência de largura e altura (width e heigth), sendo que pode ser em pixels ou em porcentagem. P. ex.: se colocar 100%, ele vai ocupar o espaço inteiro do navegador aberto pelo usuário;
+
+28. A tag <td> aceita o atributo 'colspan', que recebe o número de colunas que é para o item ocupar. Se duas colunas, 2, se três, 3; Para agrupamento de linhas se utiliza o atributo rowspan também na tag <td>;
 
 

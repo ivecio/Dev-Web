@@ -54,4 +54,16 @@
 
 28. A tag <td> aceita o atributo 'colspan', que recebe o número de colunas que é para o item ocupar. Se duas colunas, 2, se três, 3; Para agrupamento de linhas se utiliza o atributo rowspan também na tag <td>;
 
+29. Para formulários utiliza-se a tag "form"; Dentro desta tag, para inserir dados, utiliza-se a tag <input>, que fecha-se em si mesma. P. Ex: <input type="text" />;
+
+30. Os "types" do input é que definirão o que será o envio de dados. Pode ser text, password, button, radio, checkbox. Há ainda as tags select, textarea etc...
+
+31. No type radio, para fazer com que somente uma escolha seja possível, coloca-se no input outro atributo, o name="", e aí tem que ser o mesmo nome para todas as opções concorrentes;
+
+32. Para botão, para inserir o texto se coloca o atributo "value";
+
+33. Quando o botão for de envio de dados, como um cadastro, e não só um comando de OK, o type correto é submit;
+
+
+
 

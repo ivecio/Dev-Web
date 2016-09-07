@@ -64,6 +64,14 @@
 
 33. Quando o botão for de envio de dados, como um cadastro, e não só um comando de OK, o type correto é submit;
 
+34. A letra & inicia um entidade (entity) HTML, para colocar caracteres que não apareceriam na tela pois fazem parte dos código, como < > & etc.
+
+35. Os comandos de tabela <table> pode servir para montar a estrutura inteira de um site, mas não é a forma mais moderna atualmente;
+
+36. Numa <table> o atributo "align" serve para alinhar a tabela no site, por exemplo, para centralizar (center);
+
+37. O site Lorem Ipsum é uma página que gera conteúdo automáticos, para encher o site no momento do desenvolvimento, para ver como fica;
+
 
 
 
